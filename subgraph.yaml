@@ -11,9 +11,9 @@ dataSources:
     name: Factory
     network: niskala
     source:
-      address: '0x5dF7364Ea1C7e65CBC5f67af629Dd31c8518b2d6'
+      address: '0x95d6b57043a39eACa2DAa6802C3b13e30227a04e'
       abi: Factory
-      startBlock: 303596
+      startBlock: 876205
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.7

@@ -7,7 +7,7 @@ import { Pool, Token } from '../src/types/schema'
 import { ZERO_BD, ZERO_BI } from '../src/utils/constants'
 
 const USDC_MAINNET_ADDRESS = '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48'
-const WETH_MAINNET_ADDRESS = '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
+const WETH_MAINNET_ADDRESS = '0x5ab6bc73447e6a302d5d486675c953206b2dbc2e'
 const WBTC_MAINNET_ADDRESS = '0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599'
 export const USDC_WETH_03_MAINNET_POOL = '0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8'
 export const WBTC_WETH_03_MAINNET_POOL = '0xcbcdf9626bc03e24f779434178a73a0b4bad62ed'
